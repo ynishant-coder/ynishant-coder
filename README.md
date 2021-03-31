@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishant Yadav(@ynishant-coder)
 A motivated individual with in-depth knowledge of C++, backend developer, Data structure, and algorithm. Seeking a position in a growth-oriented company where I can develop my own skills. 
-- 👀 I’m interested in software and web development
+- 👀 I’m interested in software and web development.
 - 🌱 I’m currently learning Nodejs.
 
 - 💞️ I have knowledge of html, css, java-script, C++, Sql, Data structure and algorithms...
