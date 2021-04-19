@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nishant Yadav(@ynishant-coder) competative coder.
 A motivated individual with in-depth knowledge of C++, HTML, CSS, java-script, Nodejs, Data structure and algorithm. Seeking a position in a growth-oriented company where I can develop my own skills. 
-- 2 🌟 on Codechef | COMPETITIVE CODER | 3 🌟 @LeetCode | 5🌟 HackerRank 
+- 3 🌟 on Codechef | 3 🌟 @LeetCode | 5🌟 HackerRank | CP  | JS | Angular | Nodejs 
 - 👀 I’m interested in software and web development.
+- 
 - 🌱 I’m currently learning backend technology.
 
 - 💞️ I have knowledge of html, css, java-script, C++, Sql, Data structure and algorithms...
