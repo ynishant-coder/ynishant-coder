@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ynishant-coder&show_icons=true&locale=en" alt="ynishant-coder" /></p>
 
 <h1> LET'S ROLL IT</h1>
-<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="800" height="320" />
+<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="700" height="320" />
