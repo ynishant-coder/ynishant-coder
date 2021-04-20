@@ -1,20 +1,20 @@
-### Hello World, I'm Anna  👋
+### 👋  Hello, I’m Nishant Yadav  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
+## 3 🌟 Codechef | 3 🌟 @LeetCode | 5🌟 HackerRank | CP | JS | React | Nodejs
+- ✍ You can find my projects here https://drive.google.com/file/d/1j13OoX1tqpYVL_SSEB1SBbEb1l7OWZW8/view?usp=sharing
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🌱 I’m currently learning React Native and Nodejs
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 😄 Pronouns: He/hi
+- ⚡ Fun fact: I speak 2 languages ( English, Hindi)
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/nishant435/]
 
 <br />
 
