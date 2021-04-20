@@ -4,9 +4,9 @@
 ## 3 🌟 Codechef | 3 🌟 @LeetCode | 5🌟 HackerRank | CP | JS | React | Nodejs
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynishant-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ynishant-coder" /> </p>
 
-- 🌱 I’m currently learning **a final year student of B.tech**
+- 🌱 I’m currently pursuing **a final year student of B.tech from LOVELY PROFESSIONAL UNIVERSITY**
 
-- 🤝 I’m looking for help with **job role of software developer or web development**
+- 🤝 I’m looking for **job role of software developer or web development as fresher**
 
 - 📫 How to reach me **ynishant435@gmail.com**
 
@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynishant-coder&show_icons=true&locale=en&layout=compact" alt="ynishant-coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynishant-coder&show_icons=true&locale=en" alt="ynishant-coder" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ynishant-coder&show_icons=true&locale=en" alt="ynishant-coder" /></p>
