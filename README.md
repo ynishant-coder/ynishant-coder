@@ -4,7 +4,7 @@
 ## 3 🌟 Codechef | 3 🌟 @LeetCode | 5🌟 HackerRank | CP | JS | React | Nodejs
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynishant-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ynishant-coder" /> </p>
 
-- 🌱 I’m currently pursuing **a final year student of B.tech from LOVELY PROFESSIONAL UNIVERSITY**
+- 🌱 I’m currently **a final year student of B.tech from LOVELY PROFESSIONAL UNIVERSITY**
 
 - 🤝 I’m looking for **job role of software developer or web development as fresher**
 
