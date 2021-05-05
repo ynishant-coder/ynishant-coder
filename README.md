@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Yadav</h1> 
+<h1 align="center">Hi 👋, I'm Nishant Yadav </h1> 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## 3 🌟 Codechef | 3 🌟 @LeetCode | 5🌟 HackerRank | CP | JS | React | Nodejs
