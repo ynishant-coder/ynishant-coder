@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **ynishant435@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j13OoX1tqpYVL_SSEB1SBbEb1l7OWZW8/view?usp=sharing](https://drive.google.com/file/d/1j13OoX1tqpYVL_SSEB1SBbEb1l7OWZW8/view?usp=sharing)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nishant435" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nishant435?trk=profile-badge">LinkedIn Profile</a></div>
 <h3 align="left">Languages and Tools:</h3>
